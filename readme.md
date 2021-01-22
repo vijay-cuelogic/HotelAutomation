@@ -4,7 +4,7 @@
 
 1. Install ruby version 2.5.0
 
-2. Command to execute program
+2. Command to execute program<br>
    ruby hotel_automation.rb
 
 # Steps to execute test cases
